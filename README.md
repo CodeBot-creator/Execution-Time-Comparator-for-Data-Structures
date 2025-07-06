@@ -34,11 +34,11 @@ Sorting column: Salary
 
 Algorithm        Time (ms)
 ---------------------------
-Insertion Sort   92.5
-Shell Sort       12.1
-Merge Sort       7.6
-Quick Sort       6.3   ✅ Fastest
-Heap Sort        9.8
+Insertion Sort   92.5</br>
+Shell Sort       12.1</br>
+Merge Sort       7.6</br>
+Quick Sort       6.3   ✅ Fastest</br>
+Heap Sort        9.8</br>
 
 
 
